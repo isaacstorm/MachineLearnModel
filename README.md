@@ -27,13 +27,17 @@
 <p><strong>########## Feature Generation ##########</strong></p>
 <ol>
 <li>Make sure make321mutil.py, id0, data0.txt and ce0 are all downloaded and placed in the same folder</li>
-<li>Run make321mutil.py </li>
+<li>Run 
+  ```./make321mutil.py
+  ```</li>
 <li>A feature file A321exx0.txt will be generated</li>
 </ol>
 <p><strong>########## Feature Filtering ##########</strong></p>
 <ol>
 <li>Make sure makefilter.py, A321exx0.txt and import.txt are all downloaded and placed in the same folder</li>
-<li>Run makefilter.py </li>
+<li>Run 
+  ```./makefilter.py
+  ```</li>
 <li>Filtered feature file A321exx0_edit1.txt will be generated</li>
 </ol>
 <p><strong>########## Model Training ##########</strong></p>
