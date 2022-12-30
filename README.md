@@ -37,6 +37,7 @@
 <ol>
 <li>Make sure makefilter.py, A321exx0.txt and import.txt are all downloaded and placed in the same folder</li>
 <li>Run </li>
+</ol>
   ```
   ./makefilter.py
   ```
