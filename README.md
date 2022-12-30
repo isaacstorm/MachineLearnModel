@@ -32,6 +32,7 @@
   ```
   ./make321mutil.py
   ```
+ 
 <li>A feature file A321exx0.txt will be generated</li>
 <p><strong>########## Feature Filtering ##########</strong></p>
 <ol>
@@ -41,6 +42,7 @@
   ```
   ./makefilter.py
   ```
+ 
 <li>Filtered feature file A321exx0_edit1.txt will be generated</li>
 </ol>
 <p><strong>########## Model Training ##########</strong></p>
