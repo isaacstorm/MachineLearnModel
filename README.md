@@ -28,12 +28,11 @@
 <ol>
 <li>Make sure make321mutil.py, id0, data0.txt and ce0 are all downloaded and placed in the same folder</li>
 <li>Run </li>
-
   ```
       ./make321mutil.py
   ```
- 
 <li>A feature file A321exx0.txt will be generated</li>
+</ol>
 <p><strong>########## Feature Filtering ##########</strong></p>
 <ol>
 <li>Make sure makefilter.py, A321exx0.txt and import.txt are all downloaded and placed in the same folder</li>
