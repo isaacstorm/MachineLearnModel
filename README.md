@@ -28,8 +28,9 @@
 <ol>
 <li>Make sure make321mutil.py, id0, data0.txt and ce0 are all downloaded and placed in the same folder</li>
 <li>Run </li>
+
   ```
-      ./make321mutil.py
+  ./make321mutil.py
   ```
 <li>A feature file A321exx0.txt will be generated</li>
 </ol>
@@ -47,7 +48,12 @@
 <p><strong>########## Model Training ##########</strong></p>
 <ol>
 <li>Modify the python interpreter path to your own path and make sure you have the right version of the dependent ibraries</li>
-<li>Run torjesa.py. The performance of the model will printed to the screen during training.</li>
+<li>Run </li>
+  
+  ```
+  torjesa.py.
+  ```
+  The performance of the model will printed to the screen during training.
 <li>Model file mlp.pth will be generated</li>
 </ol>
 <p><strong>########## Prediction with Models ##########</strong></p>
