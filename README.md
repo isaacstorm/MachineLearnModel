@@ -51,7 +51,7 @@
 <li>Run </li>
   
   ```
-  torjesa.py.
+  ./torjesa.py.
   ```
   The performance of the model will printed to the screen during training.
 <li>Model file mlp.pth will be generated</li>
@@ -61,6 +61,10 @@
 <li>Prepare your own 3D coordinate files, lattice vector files and near neighbor list files, making sure that the atomic order and file format are exactly the same as those provided in the project</li>
 <li>Modify make321mutil.py and makefilter and run to obtain features of your own structure</li>
 <li>Modify pred.py and run</li>
+   
+  ```
+  ./pred.py.
+  ```
 <li>Predict file will be generated</li>
 </ol>
 
@@ -88,7 +92,11 @@
 <ol>
 <li>Run make321rot.py, Rotation Augmentation feature A321exxrot.txt will be genreated.</li>
 <li>Modify makefilter.py and run,Filtered feature file A321rot_edit1.txt will be generated </li>
-<li>Run torjesarot.py,model file mlprot.pth will be generated</li>
+<li>Run  </li>
+  ```
+  ./torjesarot.py.
+  ```
+  model file mlprot.pth will be generated
 </ol>
 <p><strong>########## Enhanced Sampling  ##########</strong></p>
 <ol>
@@ -97,8 +105,12 @@
 <li>Copy ../qt/A3210_edit1.txt to current folder </li>
 <li>run "cat A3210_edit1.txt A321h1_edit1.txt > A3210h1_edit1.txt" and "cat jefflod0.txt jefflodh1.txt > jefflodh1.txt"</li>
 <li>Copy ../qt/mlp.pth to current folder as a pre-training models</li>
-<li>Run torlong.py,model file mlplong.pth will be generated</li>
-</ol>
+<li>Run  </li>
+  ```
+  ./torlong.py.
+  ```
+  model file mlplong.pth will be generated
+</ol></ol>
 <p><strong>########## Prediction with Models ##########</strong></p>
 The steps are exactly the same as without  data augmentation
 
