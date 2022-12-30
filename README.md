@@ -93,6 +93,7 @@
 <li>Run make321rot.py, Rotation Augmentation feature A321exxrot.txt will be genreated.</li>
 <li>Modify makefilter.py and run,Filtered feature file A321rot_edit1.txt will be generated </li>
 <li>Run  </li>
+  
   ```
   ./torjesarot.py.
   ```
@@ -106,6 +107,7 @@
 <li>run "cat A3210_edit1.txt A321h1_edit1.txt > A3210h1_edit1.txt" and "cat jefflod0.txt jefflodh1.txt > jefflodh1.txt"</li>
 <li>Copy ../qt/mlp.pth to current folder as a pre-training models</li>
 <li>Run  </li>
+  
   ```
   ./torlong.py.
   ```
