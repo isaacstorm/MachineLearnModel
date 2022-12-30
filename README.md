@@ -88,3 +88,8 @@
 <p><strong>########## Prediction with Models ##########</strong></p>
 The steps are exactly the same as without  data augmentation
 
+The pre-trained model can be downloaded in https://mega.nz/folder/OmBDRCga#NcbZ8E6wVXcOKVs1TlDFhg, and use
+···
+torch.load(PATH)
+···
+to load model
