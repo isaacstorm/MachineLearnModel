@@ -31,7 +31,7 @@
 
   ```
       ./make321mutil.py
-      ```
+  ```
  
 <li>A feature file A321exx0.txt will be generated</li>
 <p><strong>########## Feature Filtering ##########</strong></p>
