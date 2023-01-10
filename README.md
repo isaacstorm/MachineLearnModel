@@ -71,7 +71,7 @@
 
 <p>Folder Enhanced contain data and scripts required for data augmentation，quadruple thiophene is used as an example</p>
 <ul>
-<<li>data0.txt #XYZ coordinates of each atom extracted from MD simulations, unit in nm.</li>
+<li>data0.txt #XYZ coordinates of each atom extracted from MD simulations, unit in nm.</li>
 <li>ce0 #cell vectors of periodic box used in MD simulations, arranged by XX YY ZZ XY XZ YX YZ ZX ZY, unit in nm.</li>
 <li>id0 #nearest  neighbor list file, serial number starting from 1.</li>
 <li>datahigh1.txt #XYZ coordinates of each atom in a molecular pair extracted from MD simulations at 400 K, unit in nm.</li>
